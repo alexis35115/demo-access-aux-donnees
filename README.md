@@ -1,2 +1,3 @@
-# demo-access-aux-donnees
-Démonstration d'accès aux données
+# Accès aux données
+
+Code source pour l'analyse des différences entre un DAO et un Repository.
